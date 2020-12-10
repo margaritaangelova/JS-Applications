@@ -1,0 +1,1 @@
+Don't forget to run "npm install handlebabrs sammy jquery" in the terminal to start the app!
